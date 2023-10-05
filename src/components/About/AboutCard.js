@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone, I am <span className="purple">Diep Lam Minh Thu (aka Jun Diep) </span>
+            Hi there, I am <span className="purple">Diep Lam Minh Thu (aka Jun Diep) </span>
             from <br /> <span className="purple"> Ho Chi Minh, Vietnam.</span>
             <br /> I am a dedicated Mobile Developer at Beincom, specializing in React Native development. 
             <br />

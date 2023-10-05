@@ -17,8 +17,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and have discovered my niche
               <br />
               <br />I am fluent in mobile programming languages like
               <i>
@@ -58,10 +57,7 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
+            <h1>CONNECT ME ON</h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
