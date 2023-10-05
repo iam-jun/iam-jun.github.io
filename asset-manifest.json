@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bba55dac.css",
+    "main.js": "/static/js/main.770a7a24.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/kwilt.png": "/static/media/kwilt.c919da7791a62cf6a262.png",
+    "static/media/you_version.png": "/static/media/you_version.85a4b256ac573dc5365f.png",
+    "static/media/bic_chat.png": "/static/media/bic_chat.8fa238c24a893f5a27c4.png",
+    "static/media/bic_group.png": "/static/media/bic_group.16f8c0872eacec65af68.png",
+    "static/media/eve_hr.png": "/static/media/eve_hr.24dfc1a0e9767ac98f8f.png",
+    "static/media/profile.png": "/static/media/profile.7d3049f9c62f484eff1a.png",
+    "static/media/about.png": "/static/media/about.c9c0cf05b51c81b5692e.png",
+    "static/media/jun_cv.pdf": "/static/media/jun_cv.99dd3724bb303ca8508b.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.4c903d24a1f4ddc359c1f3d15b34f4cd.svg",
+    "static/media/hakobiya.webp": "/static/media/hakobiya.7be8dcc45b0b7a4242c3.webp",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.fe362190a2f20adf72a3.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.bba55dac.css.map": "/static/css/main.bba55dac.css.map",
+    "main.770a7a24.js.map": "/static/js/main.770a7a24.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba55dac.css",
+    "static/js/main.770a7a24.js"
+  ]
+}
